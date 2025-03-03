@@ -87,7 +87,7 @@ export const projectsData = [
 		description: 'Приложение написано на Javascript с применени MVC-паттерна',
 		tags: ['JavaScript', 'HTML', 'CSS'],
 		imageUrl: game,
-		siteUrl: 'https://marvel-nine-eosin.vercel.app/',
+		siteUrl: 'https://3-t-game.vercel.app/',
 	},
 ] as const
 
